@@ -1,0 +1,24 @@
+.nav_name {
+    color: white;
+}
+.body {
+    
+}
+.left {
+
+}
+.right {
+
+}
+.footer {
+    margin: 0;
+    padding: 15px;
+    background-color: #E0EBE8;
+    justify-content: center;
+  }
+  .img {
+    height: 2rem;
+  }
+  .footer-logo {
+    border-radius: 20%;
+  }
